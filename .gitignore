@@ -29,6 +29,7 @@ MANIFEST
 config.py
 Weather_Database/config.py
 Vacation_Search/config.py
+Vacation_Itinerary/config.py
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
